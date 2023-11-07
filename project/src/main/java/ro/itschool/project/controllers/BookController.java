@@ -6,6 +6,7 @@ import ro.itschool.project.models.Book;
 import ro.itschool.project.services.BookService;
 
 import java.util.List;
+
 @RequestMapping("/api/books")
 @RestController
 public class BookController {
@@ -24,7 +25,7 @@ public class BookController {
     }
 
     @GetMapping()
-    public ResponseEntity<List<Book>> getAllBooks(){
+    public ResponseEntity<List<Book>> getAllBooks() {
         return ResponseEntity.ok(bookService.getAllBooks());
     }
 }
