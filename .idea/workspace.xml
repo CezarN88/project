@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7833d8c-1ea4-4991-9ed6-0a089e6d07c4" name="Changes" comment="" />
+    <list default="true" id="c7833d8c-1ea4-4991-9ed6-0a089e6d07c4" name="Changes" comment="session20 practice1">
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/ro/itschool/project/controllers/WeatherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/ro/itschool/project/models/Weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/ro/itschool/project/services/WeatherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/ro/itschool/project/services/WeatherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/ro/itschool/project/services/WeatherValidatorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/src/main/java/ro/itschool/project/services/WeatherValidatorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,23 +30,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2XrGl94KpYy2NBmCUOPwEa6v0s2" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/hp/IdeaProjects/project"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/IdeaProjects/project&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +65,28 @@
       <option name="presentableId" value="Default" />
       <updated>1699379936650</updated>
     </task>
+    <task id="LOCAL-00001" summary="session20 practice">
+      <option name="closed" value="true" />
+      <created>1699385085817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699385085817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="session20 practice1">
+      <option name="closed" value="true" />
+      <created>1699385163466</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699385163466</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="session20 practice" />
+    <MESSAGE value="session20 practice1" />
+    <option name="LAST_COMMIT_MESSAGE" value="session20 practice1" />
   </component>
 </project>
